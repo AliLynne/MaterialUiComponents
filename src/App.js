@@ -11,7 +11,6 @@ function App() {
   return (
     <div className="App">
       <BlogPost title={title} subtitle={subtitle} date={date} content={content}/>
-      <BlogPost title={title} date={date} content={content}/>
     </div>
   );
 }
