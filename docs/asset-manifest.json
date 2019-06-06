@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.160c1bf2.chunk.js",
-    "main.js.map": "/static/js/main.160c1bf2.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.c450ecf4.chunk.js": "/static/js/2.c450ecf4.chunk.js",
-    "static/js/2.c450ecf4.chunk.js.map": "/static/js/2.c450ecf4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d9defbf9a2b6dddeee94fb26009f32c8.js": "/precache-manifest.d9defbf9a2b6dddeee94fb26009f32c8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/MaterialUiComponents/static/css/main.2cce8147.chunk.css",
+    "main.js": "/MaterialUiComponents/static/js/main.53fffc58.chunk.js",
+    "main.js.map": "/MaterialUiComponents/static/js/main.53fffc58.chunk.js.map",
+    "runtime~main.js": "/MaterialUiComponents/static/js/runtime~main.1fdff44a.js",
+    "runtime~main.js.map": "/MaterialUiComponents/static/js/runtime~main.1fdff44a.js.map",
+    "static/js/2.c450ecf4.chunk.js": "/MaterialUiComponents/static/js/2.c450ecf4.chunk.js",
+    "static/js/2.c450ecf4.chunk.js.map": "/MaterialUiComponents/static/js/2.c450ecf4.chunk.js.map",
+    "index.html": "/MaterialUiComponents/index.html",
+    "precache-manifest.1b633f1363229fc1845ce92d95724008.js": "/MaterialUiComponents/precache-manifest.1b633f1363229fc1845ce92d95724008.js",
+    "service-worker.js": "/MaterialUiComponents/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/MaterialUiComponents/static/css/main.2cce8147.chunk.css.map"
   }
 }

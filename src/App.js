@@ -1,6 +1,8 @@
 import React from 'react';
-import BlogPost from './components/BlogPost'
+import BlogPost from './components/BlogPost';
+import Projects from './components/Projects';
 import './App.css';
+
 
 const title = "Blog Post Title";
 const subtitle = "Subtitle for the current blogpost."
@@ -11,6 +13,7 @@ function App() {
   return (
     <div className="App">
       <BlogPost title={title} subtitle={subtitle} date={date} content={content}/>
+      <Projects />
     </div>
   );
 }
